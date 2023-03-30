@@ -1,5 +1,6 @@
 package homework3;
 
+// Comments 1
 public class HourlyWorker extends Employee {
 
 	 
