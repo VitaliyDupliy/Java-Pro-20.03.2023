@@ -4,7 +4,7 @@ package homework3;
 
 public class CommissionWorker extends Employee {
 	
-	final int basicSal = 3000;
+	final int basicSal = 2500;
 	double salaryPerMonth;
 	int sales;
 	final int persentOfSal = 30;
