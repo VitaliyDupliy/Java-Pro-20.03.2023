@@ -1,5 +1,6 @@
 package homework3;
 
+// Some comments!!!
 public class Boss extends Employee {
 	
 	int salaryPerWeek;
