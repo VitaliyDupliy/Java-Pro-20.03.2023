@@ -1,1 +1,6 @@
-added some text as requested
+
+A Git pull request is essentially the same as a Git merge request. 
+Both requests achieve the same result: merging a developer's branch 
+with the project's master or main branch. Their difference lies in which
+ site they are used; GitHub uses the Git pull request, 
+and GitLab uses the Git merge request
