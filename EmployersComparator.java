@@ -9,7 +9,7 @@ public class EmployersComparator implements Comparator<Employee> {
 	
 	public int compare(Employee o1, Employee o2) {
 		
-		return (int) (o1.salaryCalc() - o2.salaryCalc());
+		return (int) (o2.salaryCalc() - o1.salaryCalc());
 	}
 
 }
