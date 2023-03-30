@@ -30,7 +30,7 @@ public class HourlyWorker extends Employee {
 	@Override
 	public String toString() {
 		return super.toString() + " normOfHours= " + normOfHours + ", hoursWorked= " + hoursWorked + ", hourlyRate= "
-				+ hourlyRate + ", salaryPerMonth= " + salaryCalc() + "]";
+				+ hourlyRate + ", salaryPerMonth= " + "]";
 	}
 	
 
