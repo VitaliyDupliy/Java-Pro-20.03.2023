@@ -3,7 +3,7 @@ package homework3;
 public class PieceWorker extends Employee {
 
 	
-	final int payForProd = 100;
+	final int payForProd = 120;
 	int quantityOfProd;
 	int salaryPerMonth;
 	
