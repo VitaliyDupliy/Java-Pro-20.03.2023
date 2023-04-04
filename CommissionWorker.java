@@ -7,7 +7,7 @@ public class CommissionWorker extends Employee {
 	final int basicSal = 2500;
 	double salaryPerMonth;
 	int sales;
-	final int persentOfSal = 30;
+	final int persentOfSal = 20;
 
 	public CommissionWorker(String firstName, String lastName, int sales) {
 		super(firstName, lastName);
